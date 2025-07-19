@@ -7,11 +7,11 @@ This app allows users to create, view, edit, and delete notes, making it a handy
 
 🚀 Features
 
-- • ✍️ Add a new note with a title and content
-- • 📋 View all notes on the homepage
-- • ✏️ Edit existing note titles
-- • 🗑️ Delete notes with one click
-- • 🗃️ Persistent local storage using SQLite
+-  ✍️ Add a new note with a title and content
+-  📋 View all notes on the homepage
+-  ✏️ Edit existing note titles
+-  🗑️ Delete notes with one click
+-  🗃️ Persistent local storage using SQLite
 
 ---
 
@@ -46,15 +46,16 @@ Visit http://127.0.0.1:5000 in your browser to start using the app.
 
 📂 Project Structure
 
-notes-app/
+notes-app/ /n
 │
 ├── app.py                  # Main Flask application
 ├── notes.db                # SQLite database (auto-created on first run)
 ├── templates/
 │   └── index.html          # HTML interface using Jinja2 templating
 ├── static/
-│   └── style.css           # (Optional) Custom CSS styles
+│   └── style.css           # (Optional) Custom CSS styles /n
 └── README.md               # You're here!
+
 🖼️ Screenshots
 ![UI Preview]
 <p align="center">
