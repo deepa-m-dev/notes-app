@@ -7,11 +7,11 @@ This app allows users to create, view, edit, and delete notes, making it a handy
 
 🚀 Features
 
-• ✍️ Add a new note with a title and content
-• 📋 View all notes on the homepage
-• ✏️ Edit existing note titles
-• 🗑️ Delete notes with one click
-• 🗃️ Persistent local storage using SQLite
+-• ✍️ Add a new note with a title and content
+-• 📋 View all notes on the homepage
+-• ✏️ Edit existing note titles
+-• 🗑️ Delete notes with one click
+-• 🗃️ Persistent local storage using SQLite
 
 ---
 
