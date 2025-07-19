@@ -56,7 +56,13 @@ notes-app/
 │   └── style.css           # (Optional) Custom CSS styles
 └── README.md               # You're here!
 🖼️ Screenshots
-(Add screenshots in the repo and update the links below if needed)
+![UI Preview]
+<p align="center">
+  <img src="screenshots/ui1.heic" width="600"/>
+  <img src="screenshots/ui2.heic" width="600"/>
+</p>
+
+
 
 
 📄 License
