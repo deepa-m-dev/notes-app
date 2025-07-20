@@ -90,5 +90,6 @@ notes-app/
 This project is licensed under the MIT License — feel free to use, modify, and share.
 
 🙋‍♀️ Author
+
 Built with ❤️ by Deepa M
 https://github.com/deepa-m-dev
