@@ -81,8 +81,8 @@ notes-app/
 
 ![UI Preview]
 <p align="center">
-  <img src="screenshots/ui1.heic" width="600"/>
-  <img src="screenshots/ui2.heic" width="600"/>
+  <img width="1920" height="1035" alt="na" src="https://github.com/user-attachments/assets/8910aeb0-b99c-4f7b-90b1-5a4c3c8efc20" />
+
 </p>
 
 
