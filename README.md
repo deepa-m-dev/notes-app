@@ -28,7 +28,7 @@ This app allows users to create, view, edit, and delete notes, making it a handy
 1. Clone the repository:
 
    
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/deepa-m-dev/notes-app.git
 
 cd notes-app 
 
@@ -91,5 +91,4 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 🙋‍♀️ Author
 
-Built with ❤️ by Deepa M
-https://github.com/deepa-m-dev
+Built with ❤️ by <a href="https://github.com/deepa-m-dev">Deepa M </a>
