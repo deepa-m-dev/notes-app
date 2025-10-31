@@ -1,11 +1,11 @@
-📝 Notes App
+# 📝 Notes App
 
 A simple and user-friendly Notes App built with **Flask** and **SQLite**. 
 This app allows users to create, view, edit, and delete notes, making it a handy tool for quick note-taking and reminders.
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 -  ✍️ Add a new note with a title and content
 -  📋 View all notes on the homepage
@@ -15,7 +15,7 @@ This app allows users to create, view, edit, and delete notes, making it a handy
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Backend:** Python (Flask)
 - **Frontend:** HTML, CSS (via `/static/style.css`)
@@ -23,39 +23,37 @@ This app allows users to create, view, edit, and delete notes, making it a handy
 
 ---
 
-📦 Installation
+## 📦 Installation
 
 1. Clone the repository:
-
    
-git clone https://github.com/deepa-m-dev/notes-app.git
+       git clone https://github.com/deepa-m-dev/notes-app.git
 
-cd notes-app 
+       cd notes-app 
 
 
 2. Create and activate a virtual environment (optional but recommended):
-
    
-python -m venv venv
+       python -m venv venv
 
-source venv/bin/activate  # Windows: venv\Scripts\activate
+       source venv/bin/activate  # Windows: venv\Scripts\activate
 
 
 3. Install dependencies:
 
+       pip install flask
 
-pip install flask
+--- 
 
+## ▶️ Running the App
 
-▶️ Running the App
-
-
-python app.py
+    python app.py
 
 Visit http://127.0.0.1:5000 in your browser to start using the app.
 
+---
 
-📂 Project Structure
+## 📂 Project Structure
 
 
 notes-app/ 
@@ -76,7 +74,9 @@ notes-app/
 
 └── README.md               # You're here!
 
-🖼️ Screenshots
+---
+
+## 🖼️ Screenshots
 
 
 ![UI Preview]
@@ -85,10 +85,8 @@ notes-app/
 
 </p>
 
+---
 
-📄 License
-This project is licensed under the MIT License — feel free to use, modify, and share.
-
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 
 Built with ❤️ by <a href="https://github.com/deepa-m-dev">Deepa M </a>
